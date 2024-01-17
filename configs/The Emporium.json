@@ -1,0 +1,10 @@
+{
+  "The Emporium" : "server",
+  "sort config": {
+    "Text Channels": {
+      "channel exclusions": {
+
+      }
+    }
+  }
+}
