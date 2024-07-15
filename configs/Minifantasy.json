@@ -1,10 +1,12 @@
 {
-  "Minifantasy" : "server",
-  "sort config": {
-    "Minifantasy Multiverse": {
-      "channel exclusions": {
-
-      }
+  "guild":  "MiniFantasy",
+  "guild_id": 1111111,
+  "sorting_categories": [
+    {
+      "name": "Minifantasy Multiverse",
+      "id":  1111111
     }
-  }
+  ],
+  "auto_archive": true,
+  "auto_archive_inactive_period": 365
 }
